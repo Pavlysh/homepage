@@ -1,0 +1,31 @@
+[33mcommit 2a62dc5d4607f738f4162a424075b12c0681e2b1[m[33m ([m[1;36mHEAD -> [m[1;32mpatch/README.md[m[33m)[m
+Author: Svik <sveta.pavlysh@gmail.com>
+Date:   Sat Jun 4 14:57:09 2022 +0300
+
+    Revert "Undobracadabra"
+    
+    This reverts commit a9fdc4a80f92c65ffaed923d6007b756dee3a256.
+
+[33mcommit a9fdc4a80f92c65ffaed923d6007b756dee3a256[m
+Author: Svik <sveta.pavlysh@gmail.com>
+Date:   Sat Jun 4 14:56:52 2022 +0300
+
+    Undobracadabra
+
+[33mcommit 79cb0b69ceff3a406cfe46c142cb9750972625f0[m[33m ([m[1;31morigin/patch/README.md[m[33m)[m
+Author: Svik <sveta.pavlysh@gmail.com>
+Date:   Sat Jun 4 14:52:13 2022 +0300
+
+    Abracadabra
+
+[33mcommit cfc0cc7f0778a23c01f6cbfaa245058e240ee53c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Svik <sveta.pavlysh@gmail.com>
+Date:   Sat Jun 4 14:39:02 2022 +0300
+
+    update read.me
+
+[33mcommit 894ba9fbcd24b64630f342152ac7dc133baeb77d[m
+Author: Svitlana <103788519+Pavlysh@users.noreply.github.com>
+Date:   Sat Jun 4 00:57:49 2022 +0300
+
+    Initial commit
